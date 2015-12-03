@@ -1,9 +1,8 @@
 # freenom-api-php
 Freenom APIs Library for PHP
 
-Requirements
-
+# Requirements
 PHP 5.4.0 or higher
-Developer Documentation
 
-http://developers.google.com/api-client-library/php
+# Developer Documentation
+http://www.freenom.com/en/freenom-api.html
